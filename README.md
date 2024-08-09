@@ -42,7 +42,7 @@ Alternatively, you can run in simple mode, with .adnl domain, if you don't have 
 ```sh
 ./tonutils-reverse-proxy-linux-amd64
 ```
-
+./tonutils-reverse-proxy-linux-amd64
 ##### Use
 
 Now anyone can access your TON Site! Using ADNL address or domain. 
